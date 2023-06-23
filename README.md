@@ -63,8 +63,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-[![JackyChok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackyChok&show_icons=true&theme=tokyonight)](https://github.com/JackyChok/github-readme-stats)
+[![JackyChok's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackyChok&show_icons=true)](https://github.com/JackyChok/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyChok&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyChok&layout=compact&show_icons=true)
 
 ![Snake animation](https://github.com/JackyChok/JackyChok/blob/output/github-contribution-grid-snake.svg)
