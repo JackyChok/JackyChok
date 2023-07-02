@@ -12,10 +12,10 @@
   </a>    
   </div>
   <img src="https://komarev.com/ghpvc/?username=JackyChok&style=flat-square&color=blue" alt=""/>
-  <h1>
+  <h2>
   Heyyy, I'm Jacky Chok Ming Jie
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h2>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   </div>  
